@@ -39,12 +39,6 @@ public class Person {
   }
 
   public static void main(String[] args) {
-
-    Person Chris = new Person(34, "Chris", "Storrs-Fox", 'M');
-
-    Chris.addContactInfo("7 Queens Court", "Ellesmere Road", "Weybridge", "KT13 0HX", "United Kingdom", "07737 801839", "cmstorrsfox@gmail.com");
-
-    System.out.println(Chris);
    
   }
 }

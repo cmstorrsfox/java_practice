@@ -30,24 +30,24 @@ public class Family {
   
   public static void main(String[] args) {
 
-    Family storrs_fox = new Family("Storrs-Fox");
+    Family storrs_fox = new Family("Malarky");
 
-    Family donohue = new Family("Donohue");
+    Family donohue = new Family("Patricio");
 
-    storrs_fox.addFamilyMember("Ngoc", "Nguyen", 33, 'F');
-    storrs_fox.addFamilyMember("Chris", "Storrs-Fox", 34, 'M');
-    storrs_fox.addFamilyMember("Hieu", "Storrs-Fox", 2, 'M');
-    storrs_fox.addFamilyMember("Khoa", "Storrs-Fox", 0, 'M');
+    storrs_fox.addFamilyMember("Jane", "Meyers", 33, 'F');
+    storrs_fox.addFamilyMember("Paul", "Trudeau", 34, 'M');
+    storrs_fox.addFamilyMember("Bubba", "Trudeau", 2, 'M');
+    storrs_fox.addFamilyMember("Garfield", "Trudeau", 0, 'M');
 
-    donohue.addFamilyMember("Greg", "Donohue", 36, 'M');
-    donohue.addFamilyMember("Jess", "Schmidt", 33, 'F');
-    donohue.addFamilyMember("Charley", "Donohue-Schmidt", 1, 'F');
+    donohue.addFamilyMember("Greg", "Patricio", 36, 'M');
+    donohue.addFamilyMember("Sandra", "Gubbins", 33, 'F');
+    donohue.addFamilyMember("Malcolm", "Patricio", 1, 'M');
 
     storrs_fox.printFamilyInfo();
 
     
 
-    donohue.updateFamilyName("Schmidt-Donohue");
+    donohue.updateFamilyName("Patricio-Gubbins");
 
     donohue.printFamilyInfo();
 
