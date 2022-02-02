@@ -39,15 +39,6 @@ public class TutorClass {
   
 
   public static void main(String[] args) {
-    TutorClass JF03_AES = new TutorClass("JF03_AES");
-    
-    JF03_AES.assignTutor("Bess Chan", "Academic English Skills", "Permanent", 32800);
-    JF03_AES.addStudent("Ngoc Nguyen", "IY1", "Business and Management", 8, 8, 6, 7.5);
-    JF03_AES.addStudent("Chris Storrs-Fox", "IY1", "Business and Management", 9, 9, 9, 9);
-    JF03_AES.addStudent("Hieu Storrs-Fox", "IY1", "Computer Science", 5, 4.5, 6, 6);
-    JF03_AES.addStudent("Khoa Storrs-Fox", "IY1", "Economics", 4, 4.5, 4, 4);
-
-    JF03_AES.printClassInfo();
 
   }
 

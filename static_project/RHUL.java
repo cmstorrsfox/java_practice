@@ -15,15 +15,15 @@ public class RHUL {
   public static void main(String[] args) {
   
     TutorClass SF06_AES = new TutorClass("SF06_AES");
-    SF06_AES.assignTutor("Chris Storrs-Fox", "Academic English Skills", "Permanent", 38530);
-    SF06_AES.addStudent("Maha Daghestani", "IFY", "Arts & Social Sciences", 6.5, 7, 5.5, 6);
-    SF06_AES.addStudent("Cielo Bettancourt", "IFY", "Sciences B", 8, 7, 7, 6);
+    SF06_AES.assignTutor("Emmanuel Jones Sr.", "Academic English Skills", "Permanent", 48578);
+    SF06_AES.addStudent("Paula Magoo", "IFY", "Arts & Social Sciences", 6.5, 7, 5.5, 6);
+    SF06_AES.addStudent("Felicity Jones", "IFY", "Sciences B", 8, 7, 7, 6);
 
 
     TutorClass SF07_AES = new TutorClass("SF07_AES");
-    SF07_AES.assignTutor("Anna Miller", "Academic English Skills", "Permanent", 32500);
-    SF07_AES.addStudent("Catherine Helwig", "IFY", "Arts & Social Sciences", 6.5, 7, 5.5, 6);
-    SF07_AES.addStudent("Katie Raagland", "IFY", "Arts & Social Sciences", 8, 7, 7, 6);
+    SF07_AES.assignTutor("Paul McGinty", "Academic English Skills", "Permanent", 26822);
+    SF07_AES.addStudent("Caroline Rushden", "IFY", "Arts & Social Sciences", 6.5, 7, 5.5, 6);
+    SF07_AES.addStudent("John Stickly", "IFY", "Arts & Social Sciences", 8, 7, 7, 6);
 
 
     System.out.println("Students:");
