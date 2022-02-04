@@ -36,12 +36,6 @@ public class TutorClass {
     }
   }
 
-  
-
-  public static void main(String[] args) {
-
-  }
-
 
   
 }

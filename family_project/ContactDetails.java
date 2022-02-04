@@ -25,9 +25,5 @@ public class ContactDetails {
            telNo+"\n\t\t"+
            email+"\n";
   }
-
-  public static void main(String[] args) {
-
-  }
   
 }

@@ -29,8 +29,4 @@ public class Tutor {
            "salary "+this.salary+"\n";
   }
 
-  public static void main(String[] args) {
-    
-
-  }
 }

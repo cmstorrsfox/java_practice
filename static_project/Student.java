@@ -22,11 +22,5 @@ public class Student {
            "Pathway/Programme: "+pathwayProgramme+"\n"+
            ieltsResults+"\n";
   }
-
-
-  public static void main(String[] args) {
-
-    
-  }
   
 }
